@@ -4,7 +4,7 @@ import ShopCardList from './ShopCardList';
 
 const ShopRoute = () => <ShopCardList/>;
 
-const FeedRoute = () => <Text>Feed</Text>;
+const FeedRoute = () => <Text>Feeds</Text>;
 
 const ProfileRoute = () => <Text>Profile</Text>;
 
