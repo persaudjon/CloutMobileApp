@@ -7,7 +7,7 @@ const ShopCardComponent = () => (
   <Card>
     <Card.Title title="Card Title" subtitle="Card Subtitle" left={LeftContent} />
     <Card.Content>
-      <Title>Card title</Title>
+      <Title>Card titles</Title>
       <Paragraph>Card content</Paragraph>
     </Card.Content>
     <Card.Cover source={{ uri: 'https://picsum.photos/700' }} />
